@@ -1,9 +1,11 @@
 ### ElectroTik - cистема учёта занятий и платежей
 
 Как работает
+
 [![ElectroTik](https://img.youtube.com/vi/Tt13hyz9vd4/0.jpg)](https://www.youtube.com/watch?v=Tt13hyz9vd4)
 
 По платежам
+
 [![ElectroTik](https://img.youtube.com/vi/OXiUxk8b2CU/0.jpg)](https://www.youtube.com/watch?v=OXiUxk8b2CU)
 
 CRM ElectroTik представляет собой веб-сервис с интерфейсами для компьютера или любого мобильного устройства.
